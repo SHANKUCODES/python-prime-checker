@@ -26,7 +26,7 @@ Generates the first N prime numbers.
 ### Prime Number Checker
 
 ```bash
-python "prime checker.py"
+python prime_checker.py
 ```
 
 ### First N Prime Numbers
